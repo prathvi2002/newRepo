@@ -1,2 +1,2 @@
 # newRepo
-I created this repo for learning
+I created this repo for learning git
